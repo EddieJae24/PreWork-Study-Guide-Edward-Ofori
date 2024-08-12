@@ -26,6 +26,29 @@ console.log('Which topic should we study first?');
 selectTopic ();
 
 /*var shapes = ["triangle", "square", "pentagon", "circle"];
+function selectTopic () { 
+    if (randomTopic === 'HTML') {
+    console.log("Let's study HTML!");
+    } else if (randomTopic === 'CSS') {
+    console.log("Let's study CSS!");
+    } else if (randomTopic === 'Git') {
+    console.log("Let's study Git!");
+    } else if (randomTopic === 'JavaScript') {
+    console.log("Let's study JavaScript!");
+    } else {
+    console.log('Please try again!');
+    }
+}; 
+
+console.log ("Here are the topics we learned through Prework");
+listTopics ();
+console.log('Which topic should we study first?');
+selectTopic ();
+
+/*var shapes = ["triangle", "square", "pentagon", "circle"];
 console.log(shapes[0]);
 for(var x = 0; x < shapes.length; x++) {console.log(shapes[x])};*/
+//if (0) {console.log ("I am 0")} else if (null) {console.log ("I'm null")} else if (true) {console.log("I am true")};//
+
+
 //if (0) {console.log ("I am 0")} else if (null) {console.log ("I'm null")} else if (true) {console.log("I am true")};//

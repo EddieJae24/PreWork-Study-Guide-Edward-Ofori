@@ -1,5 +1,4 @@
 # PreWork-Study-Guide-Edward-Ofori
-
 ## Description
 
 The PreWork Study Guide webpage was created to make life easier for me as a beginner coder. I was inspired to create the study guide to help me document all the key pointers in my coding journey. The study guide provides succint, clear notes on HTML, CSS, Git and Javescript. By far, I have learned the basics of these web development tools. I have created my personal notes taking webpage by setting up the framework with HTML, adding aesthetics and style to it using CSS, and eventually ading functioanlity to the page using Javascript - and most of all, all these files were stored in the Github repository. 
